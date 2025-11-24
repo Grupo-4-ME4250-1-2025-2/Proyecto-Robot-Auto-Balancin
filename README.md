@@ -1,7 +1,7 @@
 # Proyecto-Robot-Auto-Balancin
 # BB-8 AutoBalance – Proyecto Mecatrónica ME4250 (Primavera 2025)
 
-Este repositorio contiene el desarrollo completo del proyecto de Mecatrónica ME4250, cuyo objetivo fue diseñar, fabricar e implementar un **robot auto-balanceado inspirado en R2-D2**.  
+Este repositorio contiene el desarrollo completo del proyecto de Mecatrónica ME4250, cuyo objetivo fue diseñar, fabricar e implementar un **robot auto-balanceado inspirado en BB-8**.  
 El sistema utiliza un controlador **PID** junto al sensor inercial **MPU6050** para mantener el equilibrio dinámico mediante la acción de motores NEMA17 controlados por easydrivers.
 
 ---
@@ -42,7 +42,7 @@ Este robot auto-balanceado implementa:
 - Control PID (Proporcional–Integral–Derivativo).  
 - Sensor IMU MPU6050 para medición de inclinación y velocidad angular.  
 - Motores NEMA17 y drivers A4988/Easydrivers.  
-- Estructura impresa en PLA con estética temática de **R2-D2**.  
+- Estructura impresa en PLA con estética temática de **BB-8**.  
 - PCB personalizada para mejorar la organización del cableado interno.  
 
 El prototipo alcanzó un equilibrio **medianamente estable**, con tendencia a caer hacia un lado debido a la necesidad de una mejor sintonización del PID y una respuesta más rápida de los motores. Aun así, se logró validar la arquitectura electrónica, mecánica y de control del sistema.
