@@ -26,12 +26,12 @@ Fernanda Echeverría
 
 ## Contenido del repositorio
 
-- `/CAD` – Archivos CAD del robot y sus estructuras internas.  
-- `/Componentes` – Lista de materiales y componentes electrónicos utilizados.  
-- `/Codigo` – Código Arduino completo del robot (PID + lectura IMU).  
-- `/Diagramas` – Diagramas electrónicos y de control automático.  
-- `/Registros` – Fotos, videos y evidencias del proceso y pruebas.  
-- `/Referencias` – Bibliografía y material consultado.
+- [`/CAD`](CAD/) – Archivos CAD del robot y sus estructuras internas.  
+- [`/Componentes`](Componentes/) – Lista de materiales y componentes electrónicos utilizados.  
+- [`/Codigo`](Codigo/) – Código Arduino completo del robot (PID + lectura IMU).  
+- [`/Diagramas`](Diagramas/) – Diagramas electrónicos y de control automático.  
+- [`/Registros`](Registros/) – Fotos, videos y evidencias del proceso y pruebas.  
+- [`/Referencias`](Referencias/) – Bibliografía y material consultado.
 
 ---
 
