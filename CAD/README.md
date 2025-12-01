@@ -18,4 +18,4 @@ Todos los modelos fueron diseñados considerando:
 - Centro de masa bajo  
 - Rigidez estructural  
 - Optimización de peso  
-- Estética inspirada en BB-8
+- Estética inspirada en R2-F1P
