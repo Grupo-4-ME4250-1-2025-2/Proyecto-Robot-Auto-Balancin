@@ -1,5 +1,5 @@
-# Proyecto-Robot-Auto-Balancin
-# BB-8 AutoBalance – Proyecto Mecatrónica ME4250 (Primavera 2025)
+# Proyecto-Robot-Auto-Balancín
+# R2-F1P – Proyecto Mecatrónica ME4250 (Primavera 2025)
 
 Este repositorio contiene el desarrollo completo del proyecto de Mecatrónica ME4250, cuyo objetivo fue diseñar, fabricar e implementar un **robot auto-balanceado inspirado en R2-F1P**.  
 El sistema utiliza un controlador **PID** junto al sensor inercial **MPU6050** para mantener el equilibrio dinámico mediante la acción de motores NEMA17 controlados por easydrivers.
