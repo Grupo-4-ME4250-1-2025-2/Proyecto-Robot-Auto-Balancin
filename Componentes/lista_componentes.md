@@ -4,12 +4,12 @@
 - Arduino UNO  
 - MPU6050 (IMU: acelerómetro + giroscopio)  
 - 2 Motores NEMA17  
-- 2 Drivers A4988 o Easydriver  
+- 2 Controladores A4988 o Easydriver  
 - PCB personalizada  
-- Interruptor  
+- Interruptor para encendido y apagado 
 - Cables Dupont (macho-macho, macho-hembra)  
 - Conectores JST  
-- PortabateríaS y bateríaS 12V  
+- Portabaterías y baterías 12V  
 
 ---
 
