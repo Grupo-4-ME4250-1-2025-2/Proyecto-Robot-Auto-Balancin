@@ -1,6 +1,6 @@
 # Código del Robot Auto-Balanceado BB-8
 
-Este directorio contiene el código utilizado para controlar el robot auto-balanceado inspirado en R2-D2. El sistema está programado en Arduino UNO e integra sensores, control PID, motores paso a paso y un módulo de seguridad para evitar caídas durante las pruebas.
+Este directorio contiene el código utilizado para controlar el robot auto-balanceado inspirado en R2-F1P. El sistema está programado en Arduino UNO e integra sensores, control PID, motores paso a paso y un módulo de seguridad para evitar caídas durante las pruebas.
 
 ## 1. Descripción general
 
