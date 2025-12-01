@@ -5,7 +5,7 @@ Esta carpeta contiene:
 ## Diagrama esquemático electrónico
 Incluye:
 - Conexión del Arduino UNO  
-- Drivers A4988/Easydriver  
+- Controlador A4988/Easydriver  
 - Sensor MPU6050  
 - PCB personalizada  
 - Distribución de alimentación de 12V  
