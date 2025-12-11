@@ -1,6 +1,6 @@
 # Carpeta CAD
 
-Esta carpeta contiene todos los **modelos CAD** utilizados para diseñar y fabricar el robot auto-balanceado BB-8.
+Esta carpeta contiene todos los **modelos CAD** utilizados para diseñar y fabricar el robot auto-balanceado R2-F1P.
 
 Incluye:
 - Cabeza y cuerpo cilíndrico del robot.  
