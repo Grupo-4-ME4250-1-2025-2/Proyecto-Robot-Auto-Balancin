@@ -49,12 +49,5 @@ El prototipo alcanzó un equilibrio **medianamente estable**, con tendencia a ca
 
 ---
 
-## Próximos pasos
-
-- Ajuste fino del PID (Kp, Ki, Kd).  
-- Optimización del centro de masa.   
-
----
-
 ## 📜 Licencia
 Libre uso académico.  
