@@ -3,7 +3,7 @@
 ## Electrónica
 - Arduino UNO  
 - MPU6050 (IMU: acelerómetro + giroscopio)  
-- 2 Motores NEMA17  
+- 2 Motores paso a paso NEMA17  
 - 2 Controladores A4988 o Easydriver  
 - PCB personalizada  
 - Interruptor para encendido y apagado 
