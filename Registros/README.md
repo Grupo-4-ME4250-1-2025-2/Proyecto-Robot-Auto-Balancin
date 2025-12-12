@@ -14,6 +14,6 @@ Esta carpeta contiene evidencia completa del proceso de desarrollo:
 - Registro de versiones anteriores  
 
 ## Avances
-- Cambios de diseño y mejoras por fecha  
+- Cambios de diseño y mejoras 
 - Iteraciones del CAD  
 - Ajustes del PID  
