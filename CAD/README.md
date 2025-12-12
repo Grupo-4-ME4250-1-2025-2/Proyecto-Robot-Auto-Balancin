@@ -3,10 +3,8 @@
 Esta carpeta contiene todos los **modelos CAD** utilizados para diseñar y fabricar el robot auto-balanceado R2-F1P.
 
 Incluye:
-- Cabeza y cuerpo cilíndrico del robot.  
-- Ruedas laterales.  
-- Soportes internos para motores NEMA17.  
-- Caja interna para batería.    
+- Cabeza y cuerpo cilíndrico del robot.   
+- Soportes internos para motores NEMA17.     
 - Piezas auxiliares para unión y rigidez.  
 
 Cada archivo se encuentra en formato:
